@@ -1,3 +1,3 @@
 # utils
 
-## (Bash)[bash.md]
+## [Bash](bash.md)
