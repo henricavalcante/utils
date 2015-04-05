@@ -31,3 +31,5 @@ for f in *.js; do echo "Do something $f"; g=`basename $f .js`; echo "Without ext
 ## Execute Sublime everywhere
 
 ```
+sudo ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/bin/subl
+```
