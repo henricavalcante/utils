@@ -28,3 +28,6 @@ PS1="$GREEN\u@machine$NO_COLOUR:\w$YELLOW\$(parse_git_branch)$NO_COLOUR\$ "
 for f in *.js; do echo "Do something $f"; g=`basename $f .js`; echo "Without ext: $g"; done;
 ```
 
+## Execute Sublime everywhere
+
+```
